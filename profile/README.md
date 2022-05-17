@@ -1,0 +1,1 @@
+The porpuse of this GitHub repository is to have an all-in-one place for the device trees, vendor trees, kernels, and hardware files needed to compile ROMs for the devices I own. For now, the list is small, but I hope to expand it in the future. The only working trees I have for now are for the OnePlus 9 Pro (Lemonadep).
